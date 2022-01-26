@@ -1,10 +1,10 @@
-## Use the project
-- Launch Docker
-- Use `docker compose up` to build and deploy the docker
-- If at the first `docker compose up` they're is a problem, relaunch the command (and do not delete the previous build and images), it will work.
-- Go on "http://localhost:8080", at each loading, it will increment a value into the database, the number of all incrementations is printed
+# Author
+- Florian Marques
 
-Jenkins
+# How to use the project
+- Launch Docker on your machine
+- Go on Jenkins and build the pipeline or you can push something on the git and the build will be launched automatically
+- Go on "http://localhost:3030"
 
 # Getting Started with Create React App
 
