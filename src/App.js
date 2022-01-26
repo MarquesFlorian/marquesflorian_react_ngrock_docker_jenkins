@@ -10,7 +10,7 @@ function App() {
           Hello Khodor
         </p>
         <p>
-          Need to update to test :)
+          Need to update to test
         </p>
         <a
           className="App-link"
